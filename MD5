@@ -1,4 +1,4 @@
-afec74985a15879574c9d4667fbd76a3 *DESCRIPTION
+3ef6dfc039d54233ab48fce5d6604bcd *DESCRIPTION
 9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
 96d33bc263e09ba3d88de566a9a70c68 *cleanup
 2e4b61e3d970fc8de4c5e1b4f826ec27 *data/GBSG2.rda
@@ -6,6 +6,7 @@ afec74985a15879574c9d4667fbd76a3 *DESCRIPTION
 1d474299f9fb4f6d6fd15030116460ad *data/Westbc.rda
 49dbdbd80bb7f93379374b8c9acaa279 *data/birds.rda
 6cd18a1b7d3d1b3353deec83eb2eb2e0 *data/bodyfat.rda
+66b1379d2955a4e4cebf3f8acc57e800 *data/mammoexp.rda
 6b52f30ac493eec8d207b1ea987b9d59 *data/mn6.9.rda
 b28f1e9a7d0260c0644db60ff3dce770 *data/sphase.rda
 69e1188776f91a9c1d38308790a318de *data/wpbc.rda
@@ -17,6 +18,7 @@ a2d500b8cc215e0296f07a8ebd64bf09 *inst/rda/CHFLS.rda
 7151756ea2b336a360702e6f3aa70eab *man/Westbc.Rd
 ec54a1a86c0f317467f18a2290a301e4 *man/birds.Rd
 322e8eb6136e6f53ad614eae774a4117 *man/bodyfat.Rd
+73914716ea11fce5eeb04e9d93e2351b *man/mammoexp.Rd
 fa367324f559d6300971b4be5e509260 *man/mn6.9.Rd
 6b2393a3ac49dd2c8dfaac5ea6caeeae *man/sphase.Rd
 2b5d56f51e737289876403df89953a8b *man/wpbc.Rd
