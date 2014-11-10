@@ -1,4 +1,4 @@
-3ef6dfc039d54233ab48fce5d6604bcd *DESCRIPTION
+7cc966a7d59731bdd2ecd728259f95c3 *DESCRIPTION
 9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
 96d33bc263e09ba3d88de566a9a70c68 *cleanup
 2e4b61e3d970fc8de4c5e1b4f826ec27 *data/GBSG2.rda
@@ -6,10 +6,12 @@
 1d474299f9fb4f6d6fd15030116460ad *data/Westbc.rda
 49dbdbd80bb7f93379374b8c9acaa279 *data/birds.rda
 6cd18a1b7d3d1b3353deec83eb2eb2e0 *data/bodyfat.rda
-66b1379d2955a4e4cebf3f8acc57e800 *data/mammoexp.rda
+95acb0e98710bd785b51e85d036ee85e *data/mammoexp.rda
 6b52f30ac493eec8d207b1ea987b9d59 *data/mn6.9.rda
 b28f1e9a7d0260c0644db60ff3dce770 *data/sphase.rda
 69e1188776f91a9c1d38308790a318de *data/wpbc.rda
+49566b689c30207b4ccfacf01c994edf *demo/00Index
+eaa6c81d301e59ef3eff7917bdadd760 *demo/PROACT.R
 be537283578e005adfc63556cf98409d *inst/rda/AML_Bullinger.rda
 4c157332a29f30972f3760494b19b13c *inst/rda/BavarianDVCs.rda
 a2d500b8cc215e0296f07a8ebd64bf09 *inst/rda/CHFLS.rda
