@@ -1,4 +1,4 @@
-2f9b11fab622bf05a0102b82d54efff3 *DESCRIPTION
+74e788a18238e28be90468a7d40c358e *DESCRIPTION
 9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
 96d33bc263e09ba3d88de566a9a70c68 *cleanup
 2e4b61e3d970fc8de4c5e1b4f826ec27 *data/GBSG2.rda
@@ -11,12 +11,12 @@
 b28f1e9a7d0260c0644db60ff3dce770 *data/sphase.rda
 69e1188776f91a9c1d38308790a318de *data/wpbc.rda
 49566b689c30207b4ccfacf01c994edf *demo/00Index
-eaa6c81d301e59ef3eff7917bdadd760 *demo/PROACT.R
+2bedb31b05c3d81c6cca82f1da9157e5 *demo/PROACT.R
 41f86dd1ab533027b0c56fc493fad5ee *inst/PSGLMM_MEE/R/makeData.R
 8514bdffdad985e2d102b8dc3b7b7cee *inst/PSGLMM_MEE/R/makeEnvir.R
 bfe56fd05d583a3488a2d1a8f764e1e6 *inst/PSGLMM_MEE/R/psglmm.R
 ce347b561606fc1b6c8345cd67c3a364 *inst/PSGLMM_MEE/R/psglmmSim.R
-9d33ad71806e05882b175f12441c7b4d *inst/PSGLMM_MEE/README.txt
+e3c8db19125a7791295ab980e5c92509 *inst/PSGLMM_MEE/README.txt
 b4103c1c0f8542eb10e0c033bde20d97 *inst/PSGLMM_MEE/analysis_birdData/mBirdsESM1_2.R
 f50cf707a7ee67a86cc57253c565564e *inst/PSGLMM_MEE/analysis_birdData/mBirdsESM3_2.R
 76fb2f15358320a68d0fc68fa5434f1e *inst/PSGLMM_MEE/simulationStudy/simModel11.R
