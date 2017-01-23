@@ -1,4 +1,4 @@
-a6b461fe6c9600a878979beb01ebb500 *DESCRIPTION
+6f231d9e2e5d802efdfba9f3f86fbba8 *DESCRIPTION
 869f932056bdfd7ec4d81cb1f6cef61d *NAMESPACE
 96d33bc263e09ba3d88de566a9a70c68 *cleanup
 2e4b61e3d970fc8de4c5e1b4f826ec27 *data/GBSG2.rda
@@ -6,13 +6,13 @@ a6b461fe6c9600a878979beb01ebb500 *DESCRIPTION
 1d474299f9fb4f6d6fd15030116460ad *data/Westbc.rda
 49dbdbd80bb7f93379374b8c9acaa279 *data/birds.rda
 6cd18a1b7d3d1b3353deec83eb2eb2e0 *data/bodyfat.rda
-e87f8cffd44e57d1b3f7be2e91947b2b *data/geyser.rda
-b754d292e9c95ccbf5166ad37ca3f036 *data/mammoexp.rda
+825a6d205dc92a6b1678481169685550 *data/geyser.rda
+5c019ff1eaf1f08b0052add3fe1ebce7 *data/mammoexp.rda
 6b52f30ac493eec8d207b1ea987b9d59 *data/mn6.9.rda
 b28f1e9a7d0260c0644db60ff3dce770 *data/sphase.rda
 69e1188776f91a9c1d38308790a318de *data/wpbc.rda
 49566b689c30207b4ccfacf01c994edf *demo/00Index
-2bedb31b05c3d81c6cca82f1da9157e5 *demo/PROACT.R
+3e00b4cc43e17f10ae0743ef320f3239 *demo/PROACT.R
 41f86dd1ab533027b0c56fc493fad5ee *inst/PSGLMM_MEE/R/makeData.R
 8514bdffdad985e2d102b8dc3b7b7cee *inst/PSGLMM_MEE/R/makeEnvir.R
 bfe56fd05d583a3488a2d1a8f764e1e6 *inst/PSGLMM_MEE/R/psglmm.R
