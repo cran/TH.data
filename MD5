@@ -1,4 +1,4 @@
-6f231d9e2e5d802efdfba9f3f86fbba8 *DESCRIPTION
+d56a4a0bb8b30a8c71bd2d290225fe96 *DESCRIPTION
 869f932056bdfd7ec4d81cb1f6cef61d *NAMESPACE
 96d33bc263e09ba3d88de566a9a70c68 *cleanup
 2e4b61e3d970fc8de4c5e1b4f826ec27 *data/GBSG2.rda
@@ -6,8 +6,8 @@
 1d474299f9fb4f6d6fd15030116460ad *data/Westbc.rda
 49dbdbd80bb7f93379374b8c9acaa279 *data/birds.rda
 6cd18a1b7d3d1b3353deec83eb2eb2e0 *data/bodyfat.rda
-825a6d205dc92a6b1678481169685550 *data/geyser.rda
-5c019ff1eaf1f08b0052add3fe1ebce7 *data/mammoexp.rda
+ce7e55343b35e2d2ca52e17ecf7cf04b *data/geyser.rda
+ac07671244eb2122c528679ca2e0715b *data/mammoexp.rda
 6b52f30ac493eec8d207b1ea987b9d59 *data/mn6.9.rda
 b28f1e9a7d0260c0644db60ff3dce770 *data/sphase.rda
 69e1188776f91a9c1d38308790a318de *data/wpbc.rda
@@ -38,10 +38,16 @@ c0d6aba350a7f23d2340c73611edd679 *inst/PSGLMM_MEE/simulationStudy/simModel22bin.
 c4bd824d527a31effb0b67b616dbb1ea *inst/PSGLMM_MEE/simulationStudy/simModel23.R
 c17da9d51a8bb211a9212adcab69c935 *inst/PSGLMM_MEE/simulationStudy/simModel23bin.R
 02e74318d3a8a5bc67f0720084004dc2 *inst/PSGLMM_MEE/simulationStudy/simModel23pois.R
+6c4f53349d35b26dd57a097c40d44ec8 *inst/rda/ALSFRSdata.rda
+6444a138b53380aa23c9e78eaf00f48d *inst/rda/ALSsurvdata.rda
 be537283578e005adfc63556cf98409d *inst/rda/AML_Bullinger.rda
 4c157332a29f30972f3760494b19b13c *inst/rda/BavarianDVCs.rda
 a2d500b8cc215e0296f07a8ebd64bf09 *inst/rda/CHFLS.rda
+cf6dbc1a26c6f3865b7aea3044c7b5fe *inst/rda/Primary_endpoint_data.rda
+211b16f35bd3aabc358712ddaf1e3a8b *inst/rda/beetles.rda
 094c5b65441ccea17b7472983bdfcc93 *inst/rda/birdsData.rda
+e22430ed392b0adc149fffec7e11c036 *inst/rda/fetus.rda
+c601c499395126475d79ae42ecb873dd *inst/rda/india.rda
 413882fc34dc70a51fe8429332b6db02 *man/GBSG2.Rd
 54b6d3a38de737d0ae21e27a1245f585 *man/GlaucomaM.Rd
 a601fe534c8b5687219806db633a9b7d *man/Westbc.Rd
