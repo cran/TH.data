@@ -1,4 +1,4 @@
-d56a4a0bb8b30a8c71bd2d290225fe96 *DESCRIPTION
+61c802b8285f2d85523a5e01bdb541c3 *DESCRIPTION
 869f932056bdfd7ec4d81cb1f6cef61d *NAMESPACE
 96d33bc263e09ba3d88de566a9a70c68 *cleanup
 2e4b61e3d970fc8de4c5e1b4f826ec27 *data/GBSG2.rda
@@ -43,7 +43,7 @@ c17da9d51a8bb211a9212adcab69c935 *inst/PSGLMM_MEE/simulationStudy/simModel23bin.
 be537283578e005adfc63556cf98409d *inst/rda/AML_Bullinger.rda
 4c157332a29f30972f3760494b19b13c *inst/rda/BavarianDVCs.rda
 a2d500b8cc215e0296f07a8ebd64bf09 *inst/rda/CHFLS.rda
-cf6dbc1a26c6f3865b7aea3044c7b5fe *inst/rda/Primary_endpoint_data.rda
+65021cd15318efc0147c486a45a129dc *inst/rda/Primary_endpoint_data.rda
 211b16f35bd3aabc358712ddaf1e3a8b *inst/rda/beetles.rda
 094c5b65441ccea17b7472983bdfcc93 *inst/rda/birdsData.rda
 e22430ed392b0adc149fffec7e11c036 *inst/rda/fetus.rda
